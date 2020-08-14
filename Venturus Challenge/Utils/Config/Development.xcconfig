@@ -1,0 +1,14 @@
+//
+//  Development.xcconfig
+//  Venturus Challenge
+//
+//  Created by Thiago Augusto on 23/07/20.
+//  Copyright © 2020 objectivesev. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_URL = https:/$()/api.imgur.com/3
+
+CLIENT_ID = 1ceddedc03a5d71
